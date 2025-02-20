@@ -1,0 +1,24 @@
+Projet de bout en bout d'ingénierie des données — Partie 1 — Spark, Kafka, Elasticsearch, Kibana, MinIO, Docker, Airflow, Hadoop YARN, HDFS, Zookeeper, Pandas
+
+
+Pile de technologies utiliser:
+Apache Airflow (scheduler) =====> port 8793
+Apache Zookeeper 2181
+Apache Kafka 9092
+Apache Hadoop HDFS {
+- namenode : 9870
+- ressourcemanager: 8088
+- YARN: 8088
+- HDFS: 9000
+}
+Apache Spark (PySpark) 7077
+Apache Hadoop YARN: 8088
+Elasticsearch: 9200
+logstash: 6000
+Kibana: 5601
+MinIO: 9000
+Docker
+Python
+SQL
+
+=====
